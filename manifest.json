@@ -1,0 +1,13 @@
+{
+    "name": "New Relic Apdex App",
+    "short_name": "NewRelicApp",
+    "start_url": "/src/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fff",
+    "theme_color": "#3f51b5",
+    "description": "New Relic Apdex App",
+    "dir": "ltr",
+    "lang": "en-US"
+}
